@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "Markdown的图片使用"
+date:       2024-05-11 12:00:00
+author:     "Hyjthfhtself"
+header-style: text
+catalog: true
+tags:
+    - Markdown
+    - Md
+---
+
+>纯新手教程。
+
+## 如何在Markdown中使用图片？
+
+方法很简单。
+
+`![alt 属性文本](图片地址 "可选标题")`
+
+开头一个！号，
+中间一个[]号，
+然后是（）号。
